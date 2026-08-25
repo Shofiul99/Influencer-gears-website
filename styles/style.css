@@ -378,6 +378,9 @@ footer .icon {
     main {
         padding: 0 50px;
     }
+    .journy {
+        flex-direction: column-reverse;
+    }
 
     .sponsors {
         flex-wrap: wrap;
